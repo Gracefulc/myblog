@@ -1,0 +1,49 @@
+.travel_maindiv img {
+    width: 100%;
+}
+
+.travel_maindiv hr {
+    width: 230px;
+}
+
+.travel_maindiv h5,
+.travel_maindiv p {
+    margin-left: 20px;
+}
+
+.travel_maindiv {
+    border: 1px solid blue;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: yellow;
+}
+.environment_li {
+    margin-top: 13px; 
+}
+.environment_li h4 {
+    border-bottom: 2px dashed yellowgreen;
+    padding: 8px;
+}
+.environment_li img {
+ border-radius: 25px;   
+}
+.environment_li p {
+    
+}
